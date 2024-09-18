@@ -1,0 +1,3 @@
+repositories:
+  - "irom77/grafana-influx"
+  - "irom77/reportlab"
